@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+.curiosidades{
+    color: white;
+}
+
+#imagem{
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+}
+
+.titulo, #aranha{
+    color: DarkSeaGreen;
+}
+
+#Tyler{
+    color: MediumSeaGreen;
+}
+
+#igor{
+    color: HotPink;
+}
+
+#Flower{
+    color:Goldenrod;
+}
+
+#Wolf{
+    color: LightSkyBlue;
+}
+
+.Albuns{
+    color: Crimson;
+}
+
+.cabeçalho{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: white;
+    background-color:Teal;
+}
+
+.rodapé{
+    color:white;
+    background-color: Maroon;
+}
+
+#sobre{
+    color: SpringGreen;
+}
